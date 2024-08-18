@@ -1,0 +1,1 @@
+This project uses a dynamic Recurrent Neural Network (RNN) to predict the season based on weekly weather data. The model is trained on preprocessed weather data and evaluated using accuracy and a confusion matrix.
